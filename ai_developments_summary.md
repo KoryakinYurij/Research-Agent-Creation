@@ -8,9 +8,9 @@ This document provides a summary of the most important AI and technology develop
 
 ## Significant New Research Papers
 
-*   **AI Models Now Detect Dementia With High Accuracy Using EEG Signals (November 27, 2025):** Researchers at Örebro University have developed two new AI systems that analyze EEG (brain-wave) data to distinguish between healthy individuals and those with dementia. One model achieves over 80% accuracy, while another using federated learning reaches over 97% accuracy.
+*   **AI Models Now Detect Dementia With High Accuracy Using EEG Signals (November 27, 2024):** Researchers at Örebro University have developed two new AI systems that analyze EEG (brain-wave) data to distinguish between healthy individuals and those with dementia. One model achieves over 80% accuracy, while another using federated learning reaches over 97% accuracy.
     *   Source: [news-medical.net](https://www.news-medical.net/news/20251127/New-AI-models-detect-dementia-with-high-accuracy-using-EEG-signals.aspx)
-*   **New Study Finds Hybrid Human + AI Teams Outperform Fully Autonomous Agents by ~69% (November 26, 2025):** A recent study by Stanford University and Carnegie Mellon University found that while AI agents are much faster and cheaper, their success rates drop significantly compared to human-only workflows. Hybrid human-AI workflows, however, boost overall performance by nearly 69%, suggesting that human supervision remains critical in high-stakes domains.
+*   **New Study Finds Hybrid Human + AI Teams Outperform Fully Autonomous Agents by ~69% (November 26, 2024):** A recent study by Stanford University and Carnegie Mellon University found that while AI agents are much faster and cheaper, their success rates drop significantly compared to human-only workflows. Hybrid human-AI workflows, however, boost overall performance by nearly 69%, suggesting that human supervision remains critical in high-stakes domains.
     *   Source: [jdsupra.com](https://www.jdsupra.com/legalnews/the-new-stanford-carnegie-study-hybrid-1562759/)
 
 ## Notable Open-Source AI or Developer Tools Projects
@@ -19,17 +19,17 @@ This document provides a summary of the most important AI and technology develop
 
 ## Key Updates and Announcements
 
-*   **Virginia Imposes New Limits on AI Chatbot Use by Minors (November 27, 2025):** The state of Virginia is introducing legislation to regulate or limit access to AI chatbots for minors, citing concerns over the use of chatbots in sensitive contexts like therapy or emotional support.
+*   **Virginia Imposes New Limits on AI Chatbot Use by Minors (November 27, 2024):** The state of Virginia is introducing legislation to regulate or limit access to AI chatbots for minors, citing concerns over the use of chatbots in sensitive contexts like therapy or emotional support.
     *   Source: [dig.watch](https://dig.watch/updates/virginia-sets-new-limits-on-ai-chatbots-for-minors)
-*   **TikTok Rolls Out New Tools for Transparency Around AI-Generated Content (November 27, 2025):** TikTok is launching new features to give users more control over AI-generated content, including enhanced labeling, invisible watermarking tests, and a $2 million global AI literacy fund.
+*   **TikTok Rolls Out New Tools for Transparency Around AI-Generated Content (November 27, 2024):** TikTok is launching new features to give users more control over AI-generated content, including enhanced labeling, invisible watermarking tests, and a $2 million global AI literacy fund.
     *   Source: [kathmandupost.com](https://kathmandupost.com/money/2025/11/27/tiktok-rolls-out-new-tools-for-transparency-around-ai-generated-content)
-*   **Alibaba Unveils New Quark AI Glasses Integrated With Qwen (November 27, 2025):** Alibaba has launched a new series of Quark AI glasses powered by its Qwen model, featuring real-time translation, object recognition, and seamless interaction with Alibaba’s ecosystem.
+*   **Alibaba Unveils New Quark AI Glasses Integrated With Qwen (November 27, 2024):** Alibaba has launched a new series of Quark AI glasses powered by its Qwen model, featuring real-time translation, object recognition, and seamless interaction with Alibaba’s ecosystem.
     *   Source: [alizila.com](https://www.alizila.com/alibaba-launches-new-quark-ai-glasses-series-in-china-deeply-integrated-with-qwen/)
-*   **New York City Council Creates Dedicated AI Oversight Office (November 26, 2025):** The New York City Council has approved the formation of a new office to audit algorithms, set deployment standards, and monitor AI systems used by city agencies to enhance transparency and responsible AI use.
+*   **New York City Council Creates Dedicated AI Oversight Office (November 26, 2024):** The New York City Council has approved the formation of a new office to audit algorithms, set deployment standards, and monitor AI systems used by city agencies to enhance transparency and responsible AI use.
     *   Source: [govtech.com](https://www.govtech.com/artificial-intelligence/new-york-city-council-sets-up-a-new-ai-oversight-office)
-*   **Philips Unveils AI-Powered Cardiac MRI Suite (November 26, 2025):** Philips has announced a new suite of AI-powered cardiac MRI innovations to make heart imaging faster, simpler, and more accessible, featuring tools that accelerate imaging and automate scan setups.
+*   **Philips Unveils AI-Powered Cardiac MRI Suite (November 26, 2024):** Philips has announced a new suite of AI-powered cardiac MRI innovations to make heart imaging faster, simpler, and more accessible, featuring tools that accelerate imaging and automate scan setups.
     *   Source: [philips.com](https://www.philips.com/a-w/about/news/archive/standard/news/articles/2025/philips-advances-cardiac-mr-with-a-new-suite-of-innovations-powered-by-ai-to-expand-patient-access-and-improve-diagnostic-precision.html)
-*   **Deloitte Under Fire After Reports Reveal AI-Generated Errors in Government Contracts (November 26, 2025):** Deloitte is facing scrutiny after reports that a health-system report submitted to a Canadian province contained multiple inaccurate or fabricated citations believed to be from the firm's use of AI.
+*   **Deloitte Under Fire After Reports Reveal AI-Generated Errors in Government Contracts (November 26, 2024):** Deloitte is facing scrutiny after reports that a health-system report submitted to a Canadian province contained multiple inaccurate or fabricated citations believed to be from the firm's use of AI.
     *   Source: [semafor](https://www.semafor.com/article/11/26/2025/deloitte-faces-new-scrutiny-over-ai-generated-mistakes)
 
 ## Improving Daily Automations with Jules and n8n
