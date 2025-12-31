@@ -37,5 +37,18 @@ This toolkit is grounded in the methodologies defined in:
 3.  **Map your Patterns**: explicitly map your agent's behavior to the Design Patterns.
 4.  **Run Meta-Audit**: Use a Meta-Agent to audit your definition against the contract.
 
+## Reference Examples
+To see these concepts in action, check the **Reference Implementations**:
+
+### 1. The Meta-Auditor (`Meta_Architect.md`)
+A self-policing agent designed to read *other* agent files and verify they comply with `Agents.md`. This is the "Linter" of the ecosystem.
+- [View Meta_Architect](./Meta_Architect.md)
+
+### 2. The "Hello World" Chain (`examples/01_Simple_Chain/`)
+A practical demonstration of the **Artifact Handoff Protocol**.
+1. **Agent A (Fact Finder)**: Searches and saves data to a file.
+2. **Agent B (The Judge)**: Reads the file and issues a verdict.
+- [View Example Chain](./examples/01_Simple_Chain/)
+
 ## Research & Review
 For a detailed analysis of how this repository aligns with State-of-the-Art (SOTA) trends for late 2025, see [REVIEW_REPORT.md](./REVIEW_REPORT.md).
