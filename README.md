@@ -30,6 +30,14 @@ This toolkit is grounded in the methodologies defined in:
 **`Agentic_Design_Patterns.pdf`** (based on the work by Antonio Gulli).
 *Concepts covered: Reflection, Planning, Multi-Agent Consensus, Model Context Protocol (MCP), Guardrails.*
 
+## 🚀 Quick Start ("Ignition")
+
+To start working, simply:
+1.  Open **`JULES_SYSTEM_PROMPT.md`**.
+2.  Copy the content.
+3.  Paste it into the chat with Jules.
+4.  Follow the prompt: Choose **Build Mode** or **Run Mode**.
+
 ## Workflow: Build vs. Run
 
 ### 🏗️ Build Mode (Architecting)
